@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApi\\WebApiStart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|d:\\webapi\\webapistart\\webapistart\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|solutionrelative:webapistart\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|d:\\webapi\\webapistart\\webapistart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|solutionrelative:webapistart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|d:\\webapi\\webapistart\\webapistart\\migrations\\bookstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|solutionrelative:webapistart\\migrations\\bookstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|d:\\webapi\\webapistart\\webapistart\\migrations\\20250319064847_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|solutionrelative:webapistart\\migrations\\20250319064847_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|d:\\webapi\\webapistart\\webapistart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|solutionrelative:webapistart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|d:\\webapi\\webapistart\\webapistart\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|solutionrelative:webapistart\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|d:\\webapi\\webapistart\\webapistart\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|solutionrelative:webapistart\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|d:\\webapi\\webapistart\\webapistart\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|solutionrelative:webapistart\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|d:\\webapi\\webapistart\\webapistart\\webapistart.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DDDAACBD-DF9F-4686-A296-68166B980128}|WebApiStart\\WebApiStart.csproj|solutionrelative:webapistart\\webapistart.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 266,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiStart\\WebApiStart\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebApiStart\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\WebApi\\WebApiStart\\WebApiStart\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "WebApiStart\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:55:30.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookStoreContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiStart\\WebApiStart\\Migrations\\BookStoreContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApiStart\\Migrations\\BookStoreContextModelSnapshot.cs",
+              "ToolTip": "D:\\WebApi\\WebApiStart\\WebApiStart\\Migrations\\BookStoreContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApiStart\\Migrations\\BookStoreContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:48:51.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250319064847_DbInit.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiStart\\WebApiStart\\Migrations\\20250319064847_DbInit.cs",
+              "RelativeDocumentMoniker": "WebApiStart\\Migrations\\20250319064847_DbInit.cs",
+              "ToolTip": "D:\\WebApi\\WebApiStart\\WebApiStart\\Migrations\\20250319064847_DbInit.cs",
+              "RelativeToolTip": "WebApiStart\\Migrations\\20250319064847_DbInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:48:47.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebApi\\WebApiStart\\WebApiStart\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiStart\\appsettings.json",
+              "ToolTip": "D:\\WebApi\\WebApiStart\\WebApiStart\\appsettings.json",
+              "RelativeToolTip": "WebApiStart\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T06:44:33.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiStart\\WebApiStart\\Data\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "WebApiStart\\Data\\BookStoreContext.cs",
+              "ToolTip": "D:\\WebApi\\WebApiStart\\WebApiStart\\Data\\BookStoreContext.cs",
+              "RelativeToolTip": "WebApiStart\\Data\\BookStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:43:18.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiStart\\WebApiStart\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "WebApiStart\\Data\\Book.cs",
+              "ToolTip": "D:\\WebApi\\WebApiStart\\WebApiStart\\Data\\Book.cs",
+              "RelativeToolTip": "WebApiStart\\Data\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:40:54.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiStart\\WebApiStart\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApiStart\\WeatherForecast.cs",
+              "ToolTip": "D:\\WebApi\\WebApiStart\\WebApiStart\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApiStart\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:31:02.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiStart\\WebApiStart\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiStart\\Program.cs",
+              "ToolTip": "D:\\WebApi\\WebApiStart\\WebApiStart\\Program.cs",
+              "RelativeToolTip": "WebApiStart\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:31:01.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiStart.http",
+              "DocumentMoniker": "D:\\WebApi\\WebApiStart\\WebApiStart\\WebApiStart.http",
+              "RelativeDocumentMoniker": "WebApiStart\\WebApiStart.http",
+              "ToolTip": "D:\\WebApi\\WebApiStart\\WebApiStart\\WebApiStart.http",
+              "RelativeToolTip": "WebApiStart\\WebApiStart.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-19T06:30:51.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
