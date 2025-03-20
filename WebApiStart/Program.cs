@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebApiStart.Data;
+using WebApiStart.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +21,11 @@ builder.Services.AddDbContext<BookStoreContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("BookStore"));
 });
+builder.Services.AddAutoMapper(typeof(Program));//đăng ký automapper
+
+//Life cycle DI : AddSingleton, AddScoped, AddTransient 
+builder.Services.AddScoped<IBookRepository, BookRepository>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
