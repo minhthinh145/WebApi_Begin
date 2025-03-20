@@ -52,5 +52,23 @@ namespace WebApiStart.Controllers
                 return BadRequest();
             }
         }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateBook(int id, BookModel model) 
+        {
+            if (id != model.Id)
+            {
+                return NotFound();
+            }
+            await _bookrepo.UpdateBookAsync(id, model);
+            return Ok();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteBook([FromRoute]int id) 
+        {
+            await _bookrepo.DeleteBookAsync(id);
+            return Ok(); 
+        }
     }
 }
