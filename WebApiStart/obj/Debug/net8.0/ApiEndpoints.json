@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "WebApiStart.Controllers.AccountsController",
+    "Method": "SignIn",
+    "RelativePath": "api/Accounts/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "signInModel",
+        "Type": "WebApiStart.Models.SignInModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiStart.Controllers.AccountsController",
+    "Method": "SignUp",
+    "RelativePath": "api/Accounts/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "signUpModel",
+        "Type": "WebApiStart.Models.SignUpModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApiStart.Controllers.BooksController",
     "Method": "GetBooks",
     "RelativePath": "api/Books",
@@ -139,6 +171,43 @@
     "Method": "GetBookById",
     "RelativePath": "api/Products/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiStart.Controllers.ProductsController",
+    "Method": "UpdateBook",
+    "RelativePath": "api/Products/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "WebApiStart.Models.BookModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiStart.Controllers.ProductsController",
+    "Method": "DeleteBook",
+    "RelativePath": "api/Products/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
