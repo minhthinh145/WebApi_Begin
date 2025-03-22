@@ -44,7 +44,7 @@ namespace WebApiStart.Repositories
             var book = await _context.Books!.FindAsync(id);
             return _mapper.Map<BookModel>(book);
         }
-
+        
         public async Task UpdateBookAsync(int id, BookModel model)
         {
             if (id == model.Id) 
